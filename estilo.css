@@ -60,7 +60,9 @@ h3 {
 }
 body {
     margin: 0;
+    display: flex;
+    justify-content: center;
 }
 img {
-    margin-bottom: 12px;
+    margin-bottom: 16px;
 }
