@@ -1,0 +1,66 @@
+.cinza {
+    background-color: #d9d9d9;
+    width: 1500px;
+    padding-left: 150px;
+}
+.branco {
+    padding-left: 75px;
+    padding-right: 170px;
+}
+.caixa {
+    padding-top: 120px;
+    padding-bottom: 40px;
+}
+.container {
+    display: flex;
+    width: 1400px;
+    font-size: 25px;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    border-top: solid 30px black;
+    border-bottom: solid 30px black;
+}
+.titulo {
+    font-family: "Ruda", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.subtitulo {
+    font-weight: 600;
+    font-size: 30px;
+
+}
+.semMargin {
+    margin: 0;
+}
+.bold {
+    font-weight: 900;
+}
+.lista {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+    margin-bottom: 30px;
+    line-height: 45px;
+}
+.grupo {
+    margin-bottom: 60px;
+}
+.topicos {
+    margin-bottom: 70px;
+}
+h1 {
+    font-size: 105px;
+    margin: 0;
+}
+h3 {
+    margin-bottom: 50px;
+}
+body {
+    margin: 0;
+}
+img {
+    margin-bottom: 12px;
+}
